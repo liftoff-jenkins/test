@@ -11,7 +11,7 @@ func init() {
 }
 
 func TestSuccess(t *testing.T) {
-	if false {
+	if true {
 		t.Fatalf("TestSuccess failed.")
 	}
 }
